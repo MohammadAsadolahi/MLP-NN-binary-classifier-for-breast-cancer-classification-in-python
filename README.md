@@ -24,11 +24,12 @@ Topology of a neural network:
 
 training method:
 
-Gradient descent
+Gradient descent - stochastic gradient descent (SGD)
 
 activation function: 
 
-Sigmoid
+Sigmoid (all layers)
+"all hidden layer activation functions can be replaced with tand-h or ReLU (no improvement for this particular project)"
 
 
 

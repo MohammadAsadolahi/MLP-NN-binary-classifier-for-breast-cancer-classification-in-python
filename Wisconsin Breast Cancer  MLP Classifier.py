@@ -1,6 +1,6 @@
 #Wisconsin Breast Cancer  MLP Classifier
 #WRITTEN BY MOHAMMAD ASADOLAHI
-#Mohamad.asa1994@gmail.com
+# Mohammad.E.Asadolahi@gmail.com
 import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt

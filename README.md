@@ -2,7 +2,9 @@
 Multilayer Perceptron Neural network for binary classification between two type of breast cancer ("benign" and "malignant" )using Wisconsin Breast Cancer Database
 
 WRITTEN BY MOHAMMAD ASADOLAHI
-Mohamad.asa1994@gmail.com
+Mohamad.asa1994@gmail.com      
+  **to do:**  
+deploy the project with tensorflow and pytorch for tutorial purposes  
 
 python Multilayer perceptron Neural network for predicting patients cancer type
 data set of project: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29
